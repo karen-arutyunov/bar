@@ -1,6 +1,7 @@
 : 1
 name: bar
 version: 0.1.0+2
+language: c++
 summary: bar C++ executable
 license: proprietary
 description-file: README.md
